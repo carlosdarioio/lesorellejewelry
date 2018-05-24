@@ -1,0 +1,17 @@
+Share Redes sociales
+
+este lo pones en \Presentation\Nop.Web\Themes\GrandNodeTheme\Views\Product\ProductTemplate.Simple.cshtml
+
+buscas   <!--wishlist, compare, email a friend & add to cart-->
+
+y pegas
+
+<div class="share-label ">
+<a class="addthis_button_preferred_1" title="Twitter lesorellejewelry"></a>
+<a class="addthis_button_preferred_2" title="G+ lesorellejewelry"></a>
+<a class="addthis_button_preferred_3" title="Bookmar lesorellejewelry"></a>
+<a class="addthis_button_preferred_4" title="FB lesorellejewelry"></a>
+<a class="addthis_button_compact" title="+ lesorellejewelry"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=nopsolutions"></script><!-- AddThis Button END -->
