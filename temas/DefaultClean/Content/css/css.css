@@ -37,7 +37,22 @@
 	background-color: #000080 !important;	
 }
 
+/*carousel sin botones*/
+.nivo-controlNav
+{
+	display:none !important;	
+}
+.header-logo
+{
+	width:80% !important;	
+}
 
+
+#nivo-slider>img
+{
+	width:320px !important;	
+	height:2500px!important;
+}
 
 @media (min-width: 1001px){
 .header-menu {
