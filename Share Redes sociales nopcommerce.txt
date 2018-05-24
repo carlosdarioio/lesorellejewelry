@@ -6,6 +6,17 @@ buscas   <!--wishlist, compare, email a friend & add to cart-->
 
 y pegas
 
+
+<!-- Prueba2010 550-->
+								<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b06e31c36c9be0011163b85&product=inline-share-buttons"></script>
+								
+								<div class="sharethis-inline-share-buttons"></div>
+								<!-- AddThis Button END -->
+
+o
+
+
+
 <div class="share-label ">
 <a class="addthis_button_preferred_1" title="Twitter lesorellejewelry"></a>
 <a class="addthis_button_preferred_2" title="G+ lesorellejewelry"></a>
