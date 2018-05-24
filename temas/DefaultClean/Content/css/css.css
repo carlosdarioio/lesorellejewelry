@@ -1,0 +1,53 @@
+
+/*QUITAR FRANJA*/
+
+.header-selectors-wrapper {
+	border-bottom: 0px solid #ddd !important;
+	padding: 9px 0;
+}
+
+.header-upper
+{
+	border-bottom: 0px solid #ddd !important;
+	
+}
+.header-menu
+{
+	border-top: 0px solid #ddd !important;
+	padding: 0px 0 !important;
+	
+}
+
+
+
+.topic-block>.topic-block-title
+{
+	border-bottom: 0px solid #ddd !important;	
+}
+
+/*MOVER MENU PARA ARRIBA*/
+.header-lower
+{
+	padding: 0px 0 !important;	
+}
+
+/*color azul marino*/
+.search-box-button
+{
+	background-color: #000080 !important;	
+}
+
+
+
+@media (min-width: 1001px){
+.header-menu {
+	border-top: 0px solid #ddd !important;
+	padding: 0px 0 !important;
+	}
+	
+	.search-box-button
+{
+	background-color: #000080 !important;	
+}
+	
+	}
